@@ -1,4 +1,4 @@
-//PASS TEST 
+//FAIL TEST 
 
 const mathOperations = require('../src/calculator');
  
