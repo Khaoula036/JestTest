@@ -1,0 +1,30 @@
+{
+  "name": "jesttest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "jest": {
+    "collectCoverage":true
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Khaoula036/JestTest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Khaoula036/JestTest/issues"
+  },
+  "homepage": "https://github.com/Khaoula036/JestTest#readme",
+  "dependencies": {
+    "jest": "^29.2.1",
+    "save-dev": "^0.0.1-security"
+  }
+}
